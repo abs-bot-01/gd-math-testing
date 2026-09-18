@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test and tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# JSONL data files
+*.jsonl
+
+# Screenshots and image captures
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~

@@ -1,0 +1,14 @@
+Godot Engine v4.6.1.stable.official.14d19694e - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:364)
+OpenGL API 4.5 (Core Profile) Mesa 23.2.1-1ubuntu3.1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 15.0.7, 256 bits)
+
+Subscription: Connected
+WARNING: res://components/phonics/character.tscn:6 - ext_resource, invalid UID: uid://cdbfpsa2l48h4 - using text path instead: res://assets/themes/default/font/tracingOutline.ttf
+     at: load (scene/resources/resource_format_text.cpp:500)
+WARNING: res://components/scenes/tile.tscn:8 - ext_resource, invalid UID: uid://dsol5ipnc87uq - using text path instead: res://assets/themes/default/font/tracingOutline.ttf
+     at: load (scene/resources/resource_format_text.cpp:500)
+WARNING: res://components/scenes/slot.tscn:8 - ext_resource, invalid UID: uid://bykigbolp1i7a - using text path instead: res://assets/themes/default/font/tracingOutline.ttf
+     at: load (scene/resources/resource_format_text.cpp:500)
+Welcome Home!
+For Parents!
