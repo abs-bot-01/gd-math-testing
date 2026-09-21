@@ -26,8 +26,9 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# JSONL data files
+# Runtime event data (high-volume, local-only)
 *.jsonl
+**/events.json
 
 # Screenshots and image captures
 *.png
