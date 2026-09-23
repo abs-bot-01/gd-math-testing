@@ -29,6 +29,7 @@ Thumbs.db
 # Runtime event data (high-volume, local-only)
 *.jsonl
 **/events.json
+godot.log
 
 # Screenshots and image captures
 *.png
