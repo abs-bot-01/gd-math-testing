@@ -1,10 +1,10 @@
-# QA report contract
+# Report contract
 
 Every completed or stopped run must produce a readable Markdown report under `tester-data/reports/<run-id>.md`.
 
 ## Required sections
 
-- `# QA Test Report`
+- `# Test Report`
 - Test Summary
 - Level Details
 - Source/runtime identity and configuration
