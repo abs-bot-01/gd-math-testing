@@ -1,0 +1,14 @@
+{
+  "project": "~/dev/gd-math-godot",
+  "source_config": "~/dev/gd-math-config/data/yamlFiles/levels.yaml",
+  "runtime_config": "~/dev/gd-math-godot/assets/config.json",
+  "godot": "godot",
+  "display": ":1200",
+  "resolution": "1280x720x24",
+  "run_root": "tester-data/runs",
+  "report_root": "tester-data/reports",
+  "evidence_profile": "per-action",
+  "input_backend": "xdotool",
+  "screenshot_backend": "ImageMagick import",
+  "computer_use_invoked": false
+}

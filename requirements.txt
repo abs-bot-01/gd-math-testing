@@ -1,0 +1,3 @@
+# Optional helpers. The core runner and validation scripts use Python 3.11 stdlib.
+Pillow>=9.0
+PyYAML>=6.0

@@ -1,0 +1,26 @@
+{
+  "level_id": "REPLACE_WITH_EXACT_LEVEL_ID",
+  "project": "~/dev/gd-math-godot",
+  "godot": "godot",
+  "display": ":1200",
+  "resolution": "1280x720x24",
+  "initial_settle_seconds": 4.0,
+  "render_timeout_seconds": 20.0,
+  "ready_timeout_seconds": 30.0,
+  "settle_seconds": 2.0,
+  "hold_seconds": 0.25,
+  "step_sleep_seconds": 0.15,
+  "max_retries": 1,
+  "board_limit": 1,
+  "input_backend": "xdotool",
+  "screenshot_backend": "ImageMagick import",
+  "computer_use_invoked": false,
+  "boards": [
+    {
+      "board_id": 1,
+      "initial_screenshot_sha256": "FILL_AFTER_LIVE_CAPTURE",
+      "live_mapping_verified": false,
+      "actions": []
+    }
+  ]
+}

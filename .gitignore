@@ -1,0 +1,10 @@
+.runtime/
+__pycache__/
+*.pyc
+*.pyo
+tester-data/runs/*
+!tester-data/runs/.gitkeep
+tester-data/reports/*
+!tester-data/reports/.gitkeep
+tester-data/findings.jsonl
+config/target.local.json
